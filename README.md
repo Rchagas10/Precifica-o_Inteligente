@@ -1,4 +1,4 @@
-# Precifica-o_Inteligente
+# Precificacao_Inteligente
 Precificação Inteligente
 
 Projeto de Precificação Inteligente
